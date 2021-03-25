@@ -1,0 +1,66 @@
+.o-3{
+    opacity: 0.9;
+}
+
+
+/* p1-5 for projects */
+.p1{
+    background-image: url('../img/p1.jpg');
+    height: 300px;
+    background-size: cover;
+}
+
+.p2{
+    background-image: url('../img/p2.jpg');
+    height: 300px;
+    background-size: cover;
+}
+
+.p3{
+    background-image: url('../img/p3.png');
+    height: 300px;
+    background-size: cover;
+}
+.p4{
+    background-image: url('../img/p4.jpg');
+    height: 300px;
+    background-size: cover;
+}
+.p5{
+    background-image: url('../img/p5.jpg');
+    height: 300px;
+    background-size: cover;
+}
+
+
+.line-center{
+    margin: 10px auto 0 auto;
+}
+
+
+/* padding */
+.prl-1{
+    padding-left: 3em !important;
+    padding-right: 3em !important;
+}
+
+.fit-content{
+    height: fit-content !important;
+}
+
+.rounded-img{
+    border-radius: 50%  !important;
+}
+
+.text-off-white{
+    color: #d7d2d2;
+}
+
+.bb{
+    border-bottom: white 3px solid !important;
+}
+
+
+.bg-purple{
+    background-color: purple !important;
+}
